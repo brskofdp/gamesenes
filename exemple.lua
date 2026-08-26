@@ -1,6 +1,6 @@
 -- Exemple d'utilisation de Gamesense UI Library
 -- Remplace cette URL par le raw GitHub de ton fichier source.lua.
-local SOURCE_URL = "https://raw.githubusercontent.com/TON-UTILISATEUR/TON-REPO/main/source.lua"
+local SOURCE_URL = "https://raw.githubusercontent.com/brskofdp/gamesenes/refs/heads/main/source.lua"
 
 local Library = loadstring(game:HttpGet(SOURCE_URL))()
 
